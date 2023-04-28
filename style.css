@@ -1,0 +1,13 @@
+.container .row .col-xl-4 .p {
+    font-weight: bold;
+}
+
+.col-xl-4 .card {
+    margin-top: 20px;
+    width: 18rem;
+    border-color: bisque;
+}
+
+.card .card-header {
+    color:black;
+}
